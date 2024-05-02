@@ -75,7 +75,7 @@ public class Robot extends TimedRobot {
   /** This function is called once when teleop is enabled. */
   @Override
   public void teleopInit() {
-    System.out.println("Hello Gamers");
+    System.out.println("This may or may not be a change guys.");
   }
 
   /** This function is called periodically during operator control. */
